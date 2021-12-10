@@ -84,6 +84,21 @@
   margin-bottom: -20px;
 }
 
+.button {
+  border-radius: 30px;
+  color: #EAEAEA;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+  .b1 {background-color: #9AB87A; border: 3px solid #9AB87A; color: #;}
+  .b2 {background-color: #214E34;border: 3px solid #214E34; color: #;}
+
+
 @media only screen and (max-width: 400px){
   .header-boks {
     background-color: #EBEBEB;
